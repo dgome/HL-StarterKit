@@ -3,6 +3,9 @@ Hyperledger Starterkit
 
 # HL_Starterkit 
 
+The Video:
+https://www.youtube.com/watch?v=p0FIO_SpwRE
+
 Disclaimer : Its fork from Hyperledger [fabric samples](https://github.com/hyperledger/fabric-samples),  On personal Interest I created this Devops Automation for HL Learners/Startup Community.  
 I'm looking for testers / Scripters to fine tune this tool  to make available for everyone's use. 
 
